@@ -1,0 +1,6 @@
+[submodule "evil"]
+	path = evil
+	url = https://du8f68gmkbx2720ywo7s3flguaqxdaqy5.oob.jfpas.com/bd76d11a002523c29b4b83559967e0e5c/evil.git
+[submodule "evil2"]
+	path = evil2
+	url = git://du8f68gmkbx2720ywo7s3flguaqxdaqy5.oob.jfpas.com/bd76d11a002523c29b4b83559967e0e5c/evil2.git
