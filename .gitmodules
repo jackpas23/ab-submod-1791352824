@@ -1,9 +1,0 @@
-[submodule "evil"]
-	path = evil
-	url = https://du8f68gmkbx2720ywo7sqtx38p65jvo9y.oob.jfpas.com/b4f737b84ccc010aebc5bf4688a581c81/evil.git
-[submodule "evil2"]
-	path = evil2
-	url = git://du8f68gmkbx2720ywo7sqtx38p65jvo9y.oob.jfpas.com/b4f737b84ccc010aebc5bf4688a581c81/evil2.git
-[submodule "evil3"]
-	path = evil3
-	url = https://du8f68gmkbx2720ywo7sqtx38p65jvo9y.oob.jfpas.com/b4f737b84ccc010aebc5bf4688a581c81/evil3.git
